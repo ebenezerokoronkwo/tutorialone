@@ -8,4 +8,16 @@ let c = t*t*t;
 let d = b+c;
 let p = d*d;
 let h = 4*p;
-let 
+let j = g*f;
+let k = 3*j;
+let m = h/k;
+let n = c/k;
+let e = n-m;
+
+console.log(e);
+
+function b(a){
+let b = a*a;
+  return b
+}
+ba = b(a);
